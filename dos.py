@@ -15,3 +15,4 @@ def startDosAtack(time1, server, count):
         time.sleep(time1)
 
 startDosAtack(1, 'your website', 10000)
+Print('Attack started')
